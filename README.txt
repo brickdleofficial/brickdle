@@ -1,4 +1,4 @@
-BRICKDLE v2 — Daily LEGO set comparison guessing game
+BRICKMYSTERY v2 — Daily LEGO set comparison guessing game
 
 HOW TO PLAY
 1. Open index.html in any modern browser.
